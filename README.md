@@ -5,14 +5,11 @@
 <h1 align="center">玄晖科技工作室</h1>
 
 <p align="center">
-  <strong>服务范围：</strong>
-  <a href="https://github.com/0xHackerFaith">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=2600&pause=900&color=79C7B2&center=false&vCenter=true&repeat=true&width=420&height=48&lines=%E8%BD%AF%E4%BB%B6%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91;Web+%E4%B8%8E%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91;AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1;%E4%BA%91%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E7%BB%B4"
-      alt="软件定制开发、Web 与移动端开发、AI 应用开发、网络安全服务、云服务与运维"
-      align="middle"
-    />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/service-label-dark.svg" />
+    <img src="./assets/service-label-light.svg" width="88" height="24" alt="服务范围：" align="middle" />
+  </picture>
+  <strong>软件定制开发　｜　Web 与移动端开发　｜　AI 应用开发<br />网络安全服务　｜　云服务与运维</strong>
 </p>
 
 <p align="center">
