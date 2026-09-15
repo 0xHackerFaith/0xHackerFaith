@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<br />
-
-<h2 align="center">代码轨迹</h2>
-
 <p align="center">
   <picture>
     <source
