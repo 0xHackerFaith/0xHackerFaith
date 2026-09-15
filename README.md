@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/0xHackerFaith">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=2600&pause=900&color=79C7B2&center=true&vCenter=true&repeat=true&width=680&height=48&lines=%E8%BD%AF%E4%BB%B6%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91;Web+%E4%B8%8E%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91;AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1;%E4%BA%91%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E7%BB%B4"
-      alt="软件定制开发、Web 与移动端开发、AI 应用开发、网络安全服务、云服务与运维"
+      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=2600&pause=900&color=79C7B2&center=true&vCenter=true&repeat=true&width=680&height=48&lines=%E6%9C%8D%E5%8A%A1%E8%8C%83%E5%9B%B4%EF%BC%9A%E8%BD%AF%E4%BB%B6%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91;%E6%9C%8D%E5%8A%A1%E8%8C%83%E5%9B%B4%EF%BC%9AWeb+%E4%B8%8E%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91;%E6%9C%8D%E5%8A%A1%E8%8C%83%E5%9B%B4%EF%BC%9AAI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%E6%9C%8D%E5%8A%A1%E8%8C%83%E5%9B%B4%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1;%E6%9C%8D%E5%8A%A1%E8%8C%83%E5%9B%B4%EF%BC%9A%E4%BA%91%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E7%BB%B4"
+      alt="服务范围：软件定制开发、Web 与移动端开发、AI 应用开发、网络安全服务、云服务与运维"
     />
   </a>
 </p>
